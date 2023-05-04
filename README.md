@@ -1,3 +1,7 @@
+# react-ts-wyy
+
+利用 react+ts 开发的一个网易云音乐
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
